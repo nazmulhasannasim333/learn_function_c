@@ -1,1 +1,6 @@
-6
+Ceil Result ==> 6
+Floor Result ==> 5
+Round Result ==> 5
+Sqrt Result ==> 4
+Pow Result ==> 8
+Abs Result ==> 5
