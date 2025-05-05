@@ -12,6 +12,7 @@ int main()
     printf("Ceil Result ==> %d\n", ceil_result);
     printf("Floor Result ==> %d\n", floor_result);
     printf("Round Result ==> %d\n", round_result);
+    printf("Sqrt Result ==> %d\n", sqrt_result);
 
     return 0;
 }
