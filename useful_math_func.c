@@ -13,6 +13,7 @@ int main()
     printf("Floor Result ==> %d\n", floor_result);
     printf("Round Result ==> %d\n", round_result);
     printf("Sqrt Result ==> %d\n", sqrt_result);
+    printf("Pow Result ==> %d\n", pow_result);
 
     return 0;
 }
