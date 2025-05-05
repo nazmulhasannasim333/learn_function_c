@@ -11,6 +11,7 @@ int main()
     int abs_result = abs(-5);
     printf("Ceil Result ==> %d\n", ceil_result);
     printf("Floor Result ==> %d\n", floor_result);
+    printf("Round Result ==> %d\n", round_result);
 
     return 0;
 }
