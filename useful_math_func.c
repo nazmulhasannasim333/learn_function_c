@@ -14,6 +14,6 @@ int main()
     printf("Round Result ==> %d\n", round_result);
     printf("Sqrt Result ==> %d\n", sqrt_result);
     printf("Pow Result ==> %d\n", pow_result);
-
+    printf("Abs Result ==> %d\n", abs_result);
     return 0;
 }
