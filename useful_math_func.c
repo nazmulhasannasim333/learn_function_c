@@ -10,6 +10,7 @@ int main()
     int pow_result = pow(2, 3);
     int abs_result = abs(-5);
     printf("Ceil Result ==> %d\n", ceil_result);
+    printf("Floor Result ==> %d\n", floor_result);
 
     return 0;
 }
